@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://avatars1.githubusercontent.com/u/29598503?v=3&s=256" alt="QtiPlot Wrap">
+  <img src="https://raw.githubusercontent.com/marvinav/qtiplot-wrap/cfb2451b67ff906c6c23076ab37e0d27eb9ee278/snap/gui/snap-qtiplot-wrap.png" alt="QtiPlot Wrap">
   <br />
   QtiPlot Wrap
 </h1>
@@ -30,9 +30,7 @@ distributions.</p>
 ([Don't have snapd installed?](https://snapcraft.io/docs/core/install))
 
 ## Remaining tasks
-<!-- Uncomment and modify this when you have a screenshot
 ![my-snap-name](screenshot.png?raw=true "my-snap-name")
--->
 
 Snapcrafters ([join us](https://forum.snapcraft.io/t/join-snapcrafters/1325)) 
 are working to land snap install documentation and
