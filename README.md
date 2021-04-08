@@ -14,23 +14,23 @@ distributions.</p>
 -->
 
 <!-- Uncomment and modify this when you have a screenshot
-![my-snap-name](screenshot.png?raw=true "my-snap-name")
+![qtiplot-wrap](screenshot.png?raw=true "qtiplot-wrap")
 -->
 
 <p align="center">Published for <img src="https://raw.githubusercontent.com/anythingcodes/slack-emoji-for-techies/gh-pages/emoji/tux.png" align="top" width="24" /> with 💝 by Snapcrafters</p>
 
 ## Install
 
-    sudo snap install my-snap-name
+    sudo snap install qtiplot-wrap
 
 <!-- Uncomment and modify this when your snap is available on the store
-[![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-white.svg)](https://snapcraft.io/my-snap-name)
+[![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-white.svg)](https://snapcraft.io/qtiplot-wrap)
 -->
 
 ([Don't have snapd installed?](https://snapcraft.io/docs/core/install))
 
 ## Remaining tasks
-![my-snap-name](screenshot.png?raw=true "my-snap-name")
+![qtiplot-wrap](screenshot.png?raw=true "qtiplot-wrap")
 
 Snapcrafters ([join us](https://forum.snapcraft.io/t/join-snapcrafters/1325)) 
 are working to land snap install documentation and
@@ -41,13 +41,13 @@ upstream so QtiPlot Wrap can authoritatively publish future releases.
     - If you have already forked the Snapcrafter template to your account and want to create another snap, you'll need to use GitHub's [Import repository](https://github.com/new/import) feature because you can only fork a repository once.
   - [x] Rename the forked Snapcrafters template repository
   - [x] Update the description of the repository
-  - [ ] Update logos and references to `QtiPlot Wrap` and `[my-snap-name]`
+  - [x] Update logos and references to `QtiPlot Wrap` and `[qtiplot-wrap]`
   - [x] Create a snap that runs in `devmode`
   - [ ] Register the snap in the store, **using the preferred upstream name**
-  - [ ] Add a screenshot to this `README.md`
+  - [x] Add a screenshot to this `README.md`
   - [ ] Publish the `devmode` snap in the Snap store edge channel
-  - [ ] Add install instructions to this `README.md`
-  - [ ] Update snap store metadata, icons and screenshots
+  - [x] Add install instructions to this `README.md`
+  - [x] Update snap store metadata, icons and screenshots
   - [ ] Convert the snap to `strict` confinement, or `classic` confinement if it qualifies
   - [ ] Publish the confined snap in the Snap store beta channel
   - [ ] Update the install instructions in this `README.md`
@@ -68,13 +68,13 @@ upstream so QtiPlot Wrap can authoritatively publish future releases.
 
 If you have any questions, [post in the Snapcraft forum](https://forum.snapcraft.io).
 
-<!--
+
 ## The Snapcrafters
 
-| [![Your Name](https://gravatar.com/avatar/bc0bced65e963eb5c3a16cab8b004431/?s=128)](https://github.com/yourname/) |
+| [![marvinav](https://avatars.githubusercontent.com/u/44019557)](https://github.com/marvinav/) |
 | :---: |
-| [Your Name](https://github.com/yourname/) |
---> 
+| [marvinav](https://github.com/marvinav/) |
+ 
 
 <!-- Uncomment and modify this when you have upstream contacts
 ## Upstream
