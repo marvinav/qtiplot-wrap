@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=QtiPlot
+Comment=Analyze and plot scientific data
+Exec=qtiplot-wrap
+Terminal=false
+Type=Application
+Icon=${SNAP}/meta/gui/snap-qtiplot-wrap.png
+Categories=Education;Science;Math;Qt;
+StartupNotify=true
